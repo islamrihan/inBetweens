@@ -1,2 +1,4 @@
 # inBetweens
-Repo for MSc. Thesis research project: Submitted on Dec. 2021
+MSc. Thesis research project 
+title: inBetweens.: A Plant-inspired Building Prototype for Inhabiting Urban Gaps: The Beirut Case  
+Submitted on Dec. 2021
