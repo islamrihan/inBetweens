@@ -1,6 +1,8 @@
 # inBetweens
 MSc. Thesis research project 
 
-title: inBetweens.: A Plant-inspired Building Prototype for Inhabiting Urban Gaps: The Beirut Case  
+## inBetweens.: A Plant-inspired Building Prototype for Inhabiting Urban Gaps: The Beirut Case  
 
-Submitted on Dec. 2021
+Get an open access to the thesis through this [link](https://www.politesi.polimi.it/handle/10589/183174)
+
+_-under construction repo-_
