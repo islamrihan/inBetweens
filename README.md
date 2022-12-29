@@ -11,6 +11,7 @@ skin optimization:
 apertures optimization
 ![apertures optimization](https://lh5.googleusercontent.com/19dewEs4cSw9273SuBwtMOr5bbumgLmEPTdeEeMbIcDLWGvC7F79PR1c2gzS9RDo7iQ=w2400)
 
-
+generated infills
+![generated infills](https://lh6.googleusercontent.com/D926DfwNBLrm1MlQPD7JOhwMtHWxcTwq6SegNOYfLFbKk64NAYW_yHdjDJwbkvvAUMY=w2400)
 
 
